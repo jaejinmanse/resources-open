@@ -1,0 +1,57 @@
+{
+  "display_rule":{
+	"new_icon_day":30,
+	"is_showing":true
+  },
+  "ios": {
+    "apps": [
+      {
+        "app_id": "1009897703", 
+        "bundle_id": "com.leejaejin.memberShipWidget",
+        "app_kr_title": "멤버십 위젯",
+        "app_en_title": "Membership Widget",
+        "app_icon_url": "https://jaejinmanse.github.io/resources-open/App/common/images/membershipwidget.png",
+        "app_store_url": "https://apps.apple.com/app/id1009897703",
+        "description_kr": "모든 멤버십을 한눈에 관리하세요.",
+        "description_en": "Manage all your memberships at once.",
+        "created_at": "2026-01-25"
+      },
+      {
+        "app_id": "1079178243", 
+        "bundle_id": "  com.leejaejin.memberShipWidgetPro",
+        "app_kr_title": "멤버십 위젯 Pro",
+        "app_en_title": "Membership Widget Pro",
+        "app_icon_url": "https://jaejinmanse.github.io/resources-open/App/common/images/membershipwidget_pro.png",
+        "app_store_url": "https://apps.apple.com/app/id1079178243",
+        "description_kr": "모든 멤버십을 한눈에 관리하세요.",
+        "description_en": "Manage all your memberships at once.",
+        "created_at": "2026-01-25"
+      },
+      {
+        "app_id": "6757636852", 
+        "bundle_id": "com.leejaejin.taprate",
+        "app_kr_title": "환율계산기 FlickRate - 퀵환율",
+        "app_en_title": "Currency Converter FlickRate",
+        "app_icon_url": "https://jaejinmanse.github.io/resources-open/App/common/images/flickrate.png",
+        "app_store_url": "https://apps.apple.com/app/id6757636852",
+        "description_kr": "전세계 실시간 환율 및 해외여행",
+        "description_en": "Real-time Rates & Travel Calc",
+        "created_at": "2026-01-25"
+      }
+    ]
+  },
+  "android": {
+    "apps": [
+      {
+        "package_id": "com.leejaejin.taprate",
+        "app_kr_title": "환율계산기 FlickRate - 퀵환율",
+        "app_en_title": "Currency Converter FlickRate",
+        "app_icon_url": "https://jaejinmanse.github.io/resources-open/App/common/images/flickrate.png",
+        "app_store_url": "https://play.google.com/store/apps/details?id=com.leejaejin.taprate",
+        "description_kr": "전세계 실시간 환율 및 해외여행",
+        "description_en": "Real-time Rates & Travel Calc",
+        "created_at": "2026-01-25"
+      }
+    ]
+  }
+}
