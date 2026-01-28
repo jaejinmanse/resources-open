@@ -17,6 +17,17 @@
         "created_at": "2026-01-25"
       },
       {
+        "app_id": "1079178243", 
+        "bundle_id": "  com.leejaejin.memberShipWidgetPro",
+        "app_kr_title": "멤버십 위젯 Pro",
+        "app_en_title": "Membership Widget Pro",
+        "app_icon_url": "https://jaejinmanse.github.io/resources-open/App/common/images/membershipwidget_pro.png",
+        "app_store_url": "https://apps.apple.com/app/id1079178243",
+        "description_kr": "모든 멤버십을 한눈에 관리하세요.",
+        "description_en": "Manage all your memberships at once.",
+        "created_at": "2026-01-25"
+      },
+      {
         "app_id": "6757636852", 
         "bundle_id": "com.leejaejin.taprate",
         "app_kr_title": "환율계산기 FlickRate - 퀵환율",
